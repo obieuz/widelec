@@ -1,6 +1,6 @@
 import json
 import click
-from .data_generator import DataGenerator
+from data_generator import DataGenerator
 
 @click.command()
 @click.argument('type_name', type=click.Choice(['person', 'company']))

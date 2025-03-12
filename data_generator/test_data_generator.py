@@ -1,4 +1,4 @@
-from data_generator.data_generator import DataGenerator
+from data_generator import DataGenerator
 
 def test_generate_person():
     generator = DataGenerator()
