@@ -16,9 +16,6 @@ Ten przewodnik zawiera instrukcje do pięciu praktycznych projektów Python, kt�
     - Wyodrębnianie nagłówków wiadomości
     - Wyświetlanie listy nagłówków
 
-### Efekt końcowy
-
-Po uruchomieniu programu, powinieneś zobaczyć listę najnowszych nagłówków z wybranej strony internetowej.
 
 ---
 
@@ -40,9 +37,6 @@ Po uruchomieniu programu, powinieneś zobaczyć listę najnowszych nagłówków 
 6. Skonfiguruj plik `pyproject.toml` aby zawierał skrypt `generate-data`
 7. Napisz testy dla generatora danych
 
-### Efekt końcowy
-
-Narzędzie CLI, które generuje pliki JSON z realistycznymi danymi testowymi dla osób lub firm.
 
 ---
 
@@ -90,9 +84,6 @@ Narzędzie CLI, które generuje pliki JSON z realistycznymi danymi testowymi dla
 4. Stwórz plik `Dockerfile` konfigurujący obraz Docker z Twoją aplikacją
 5. Stwórz plik `docker-compose.yml` do łatwego uruchamiania aplikacji
 
-### Efekt końcowy
-
-Konteneryzowane API REST, które dostarcza dane pogodowe dla określonej lokalizacji, gotowe do wdrożenia w dowolnym środowisku obsługującym Docker.
 
 ---
 
