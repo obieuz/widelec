@@ -3,10 +3,10 @@ Zacznijmy sobie od tego czym są środowiska wirtualne i po co mamy się męczy�
 
 ## Po co to komu?
 ### Posłużmy się historyjką o budowniczych:
-#### Oto nasi główni bohaterowie:
-![Pasted image 20250305081122](https://github.com/user-attachments/assets/08ba4867-d401-4f75-9cca-60580ae63211)
-**Bob i Bob Jr (Są bardzo podobni do siebie)**
-![Pasted image 20250305081253](https://github.com/user-attachments/assets/8bc9ebc5-f296-4d39-af9d-d622193f7614)
+#### Oto nasi główni bohaterowie:  
+![Pasted image 20250305081122](https://github.com/user-attachments/assets/08ba4867-d401-4f75-9cca-60580ae63211)  
+**Bob i Bob Jr (Są bardzo podobni do siebie)**  
+![Pasted image 20250305081253](https://github.com/user-attachments/assets/8bc9ebc5-f296-4d39-af9d-d622193f7614)  
 **Franklin**
 #### Historyjka
 Bob Jr. uwielbia swoje zamki w powietrzu. Jego świat to lekkie, zwiewne konstrukcje, które unoszą się wśród chmur i wyglądają jak z bajki. Nie przejmuje się grawitacją ani fundamentami, bo przecież jego zamki unoszą się samoistnie. Z kolei Franklin i jego ekipa budują rzeczy solidne – ich fortece są zbudowane z kamienia, mają grube mury, fosy, a każda cegła jest osadzona na solidnym fundamencie.
